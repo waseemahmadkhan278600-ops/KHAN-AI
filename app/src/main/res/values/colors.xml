@@ -1,0 +1,8 @@
+<resources>
+    <color name="purple">#8A2BE2</color>
+    <color name="purple_dark">#5B16A8</color>
+    <color name="bg">#090611</color>
+    <color name="card">#171022</color>
+    <color name="text">#FFFFFF</color>
+    <color name="muted">#B9AFC8</color>
+</resources>
